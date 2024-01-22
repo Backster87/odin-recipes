@@ -1,5 +1,6 @@
 body {
-    background-color: green
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 .pizza-title{
     font-size: 28px;
@@ -9,4 +10,13 @@ body {
 } 
 .lasagna-title{
     font-size: 28px;
-} 
+}
+
+.incredients{
+    font-size: 28px;
+    font-style: italic;
+}
+
+.incredients #list{
+    color: blue;
+}
